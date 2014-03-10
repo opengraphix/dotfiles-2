@@ -28,7 +28,7 @@ alias gst='git status'
 
 alias sed='gsed'
 
-alias pgrep='pgrep -ali'
+alias pgrep='pgrep -l'
 alias watch='watch --differences'
 alias which='which -a'
 
